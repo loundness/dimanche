@@ -1,4 +1,4 @@
-#:rocket: La capsule :rocket:
+:rocket: La capsule :rocket:
 
 ### Test de GitHub
 
